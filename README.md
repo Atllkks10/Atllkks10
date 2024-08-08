@@ -1,1 +1,1 @@
-Welcome to my profile. I am a freshman CS student at Bilkent University.
+Welcome to my profile. I am a sophomore CS student at Bilkent University.
